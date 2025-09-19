@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&width=435&lines=Hey!+I'm+Abhishek+Sharma+👋;Frontend+Developer+💻;Web+Developer+🌐;Creative+Video+Editor+🎬;Always+learning+new+things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&width=435&lines=Hey!+I'm+Abhishek+Sharma+👋;Frontend+Developer+💻;Web+Developer+🌐;Creative+Video+Editor+🎬;Always+learning+new+things+🚀; 🔥AK🔥" alt="Typing SVG" />
 
 ---
 
